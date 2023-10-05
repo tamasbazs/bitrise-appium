@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="tests">
     <test name="Android">
         <classes>
-             <class name="tests.AppiumDemo"/>
+             <class name="test.java.tests.AppiumDemo"/>
         </classes>
     </test>
 </suite>
